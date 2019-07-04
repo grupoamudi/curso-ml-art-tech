@@ -52,3 +52,11 @@ Material didático: https://docs.google.com/presentation/d/1GKri5YxXfh0nMGeVN9xa
 Nature of Code (Capítulo 10): https://natureofcode.com/book/chapter-10-neural-networks/
 
 Tensorflow: https://github.com/tensorflow/tensorflow
+
+Jupyter Notebook: jupyter.org
+
+Google Colaboratory (Free jupyter notebooks): https://colab.research.google.com/notebooks/welcome.ipynb
+
+Code base do livro "Deep Learning with Python": https://github.com/fchollet/deep-learning-with-python-notebooks
+
+This person does not exist: https://thispersondoesnotexist.com
